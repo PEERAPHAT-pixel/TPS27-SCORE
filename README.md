@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="th" class="dark">
 <head>
     <meta charset="UTF-8">
